@@ -21,7 +21,7 @@ const LiveStream = ({ roomid }: { roomid: string }) => {
       ? ZegoUIKitPrebuilt.Cohost
       : ZegoUIKitPrebuilt.Audience;
 
-  let sharedLinks = [];
+  const sharedLinks: { name: string; url: string; }[] = [];
   const currentUrl = window.location.host + pathname;
 
   if (role === ZegoUIKitPrebuilt.Host || role === ZegoUIKitPrebuilt.Cohost) {
@@ -50,7 +50,7 @@ const LiveStream = ({ roomid }: { roomid: string }) => {
   );
 
   // eslint-disable-next-line @typescript-eslint/no-explicit-any
-  let myMeeting: unknown = async (element: any) => {
+  const myMeeting: any = async (element: any) => {
     // Create instance object from Kit Token.
     const zp = ZegoUIKitPrebuilt.create(kitToken);
     // start the call
