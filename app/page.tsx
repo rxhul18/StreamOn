@@ -17,7 +17,7 @@ export default function Home() {
   }, [])
 
   return (
-    <div className="w-full h-screen">
+    <div className="w-full" style={{ height: "calc(100vh - 3.4rem)" }}>
       <section className="bg-gray-950 text-white bg-[linear-gradient(to_right,#80808010_1px,transparent_1px),linear-gradient(to_bottom,#80808012_1px,transparent_1px)] bg-[size:32px_32px]">
         <div className="mx-auto max-w-screen-xl h-screen px-4 py-32 flex-col gap-24 flex items-center">
           <Image src="/logo.svg" width={200} height={200} alt="logo" />
