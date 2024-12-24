@@ -27,7 +27,14 @@ Welcome to **StreamOn**, This platform lets you easily start a live stream, shar
 ## 📸 **Screenshots**
 
 _Explore the user interface and features below:_
-
+<div style="display: flex; gap: 10px;">
+   <img width="48%" alt="Screenshot 2024-12-24 at 10 28 03 PM" src="https://github.com/user-attachments/assets/44173b3e-1674-4d3a-9a1f-6069488f4848" />
+   <img width="48%" alt="Screenshot 2024-12-24 at 10 29 45 PM" src="https://github.com/user-attachments/assets/d3763b1c-936c-4ccd-9ada-b9c0232bd623" />
+</div>
+<div style="display: flex; gap: 10px;">
+   <img width="48%" alt="Screenshot 2024-12-24 at 10 31 52 PM" src="https://github.com/user-attachments/assets/23baec64-c9c5-49b4-81d8-39328fd02196" />
+   <img width="48%" alt="Screenshot 2024-12-24 at 10 33 20 PM" src="https://github.com/user-attachments/assets/f8e17785-1330-40fb-a21e-a5d8c62bcadd" />
+</div>
 
 ---
 
