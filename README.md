@@ -5,7 +5,7 @@ Welcome to **StreamOn**, This platform lets you easily start a live stream, shar
 ---
 
 ## 📽️ **Youtube Demo video**
-- **Link:** https://youtu.be/Mlc0UjyFdUs
+- **Link:** https://www.youtube.com/watch?v=qN0qWuakmh0
 ## 🛠️ **Tech Stack**
 
 - **Frontend:** [Next.js](https://nextjs.org/) - A powerful React framework  
